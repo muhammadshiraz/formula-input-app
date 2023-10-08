@@ -12,7 +12,7 @@ Formula Input App is a dynamic React application that enables users to edit tags
 
 ## Screenshots
 
-![Formula Input App Screenshot](assets/lscreencapture.png)
+![Formula Input App Screenshot](./src/assets/lscreencapture.png)
 
 ## Technologies Used
 
